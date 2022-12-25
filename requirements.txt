@@ -1,0 +1,5 @@
+mplfinance
+pandas
+numpy
+matplotlib
+alpaca-py
