@@ -19,11 +19,11 @@ Predictive Modeling: Uses Linear Regression, Logistic Regression, and Support Ve
 Model Evaluation: Evaluates models using metrics like MSE, MAE, and accuracy score.
 
 # Getting Started  
-To get started with this project, you'll need to set up your Python environment. Clone this repository and install the required packages mentioned in requirements.txt.
+To get started with this project, you'll need to set up your Python environment. Clone this repository and install the required packages mentioned in requirements.txt.  
 
-git clone https://github.com/yourusername/AAPL-Stock-Data-Analysis.git
-cd AAPL-Stock-Data-Analysis
-pip install -r requirements.txt
+git clone https://github.com/yourusername/AAPL-Stock-Data-Analysis.git  
+cd AAPL-Stock-Data-Analysis  
+pip install -r requirements.txt  
 
 # Usage  
 Open the Jupyter Notebook in this repository to view the analysis. You can run the notebook cell by cell to understand each step in the process. Make sure you have set up your Alpaca API keys to fetch the data.
