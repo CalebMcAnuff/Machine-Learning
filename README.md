@@ -1,11 +1,11 @@
-#AAPL Stock Data Analysis and Prediction
-##Introduction
+# AAPL Stock Data Analysis and Prediction  
+## Introduction  
 Welcome to the AAPL Stock Data Analysis and Prediction project! This repository contains a Jupyter Notebook that demonstrates a detailed analysis of Apple Inc. (AAPL) stock data using Python. Our approach includes data acquisition, visualization, and the application of various machine learning models to predict stock price movements.
 
-##Project Overview
+## Project Overview  
 The objective of this project is to utilize historical AAPL stock data to understand its price dynamics and to predict future stock movements. We employ various Python libraries for data manipulation, visualization, and machine learning to achieve insightful analysis and predictive modeling.
 
-##Technologies Used
+## Technologies Used  
 Python: Primary programming language for analysis and modeling.
 Pandas: For data manipulation and analysis.
 Matplotlib & mplfinance: For data visualization including line and candlestick charts.
